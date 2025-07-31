@@ -36,3 +36,7 @@ This project serves as a great starting point for those looking to understand th
    Inspired by the original Spotify web application.
    Icons provided by Font Awesome.
    Fonts provided by Google Fonts.
+
+<img width="1913" height="888" alt="image" src="https://github.com/user-attachments/assets/9c4aea7f-1e0e-4a1d-bdb7-0e767272d380" />
+<img width="1915" height="890" alt="image" src="https://github.com/user-attachments/assets/b0f83925-f2d9-4edd-ba1a-ae5a8f5cd861" />
+
